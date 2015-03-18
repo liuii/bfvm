@@ -2,7 +2,6 @@
 //  main.c
 //  studyBF
 //
-//  Created by 刘洪普 on 15/3/18.
 //  Copyright (c) 2015年 liuii. All rights reserved.
 //
 
